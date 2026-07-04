@@ -30,13 +30,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" heigh="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" heigh="40"/>
 
----
-
-## ⌛ | My github history! |
-
-<p align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=PedroVelos&show_icons=true&theme=tokyonight&count_private=true"/>
-<img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVelos&layout=compact&theme=tokyonight"/>
-</p>
-
----

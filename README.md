@@ -3,7 +3,6 @@
 </div>   
 
 <div align="center">
-  <h3>💡 Visualize, Learn n' Create</h3>  
   <p1>🚀 Backend development n' Robotics</p1>
   
 </div>

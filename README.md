@@ -1,65 +1,20 @@
-<div align="center">
-  <h1>heyy👋​ i'm Viktor</h1>
+<div align="left">
+  <h1>I'm Viktor</h1>
 </div>   
 
-<div align="center">
-  <p1>🚀 Backend development n' Robotics</p1>
-  
-</div>
-
 ---
 
-<div align="center">
+ <div align="left">
+  # ☕ | Main Stack |
  
-  ## 🛠️ | Main IDE: |
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" heigh="40" />          
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width="40" heigh="40" />
-</div>
+ </div>
 
 ---
 
 <div align="center">
-
-  ## 🖥️ ​| Technology i use everyday: |
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" heigh="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" width="40" heigh="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="40" heigh="40"/>          
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="40" heigh="40"/>
-</div>
-
----
-
-<div align="center">
-  
-  ## 🗃️ | Main DB Instruments: | 
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="40" heigh="40"/>          
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" heigh="40"/>
-</div>
-
----
-
-<div align="center">
- 
-  ## ☕ | Main programming languages: |
-
+   ### |Backend| 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" heigh="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" heigh="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" heigh="40"/>
+
 </div>
-
----
-
-<div align="center">
-  
-  ## 🌐 | Main Framework's: |
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" width="40" heigh="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="40" heigh="40" />
-</div>
-
---- 
-
-## 
